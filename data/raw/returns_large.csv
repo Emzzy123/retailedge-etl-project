@@ -1,0 +1,501 @@
+order_id,return_date,return_reason
+5264,2025-09-13,Wrong Item
+5274,2025-10-10,Wrong Item
+5577,2024-11-18,Damaged
+6590,2025-03-23,Wrong Item
+9970,2024-11-19,Damaged
+7521,2025-02-11,Nonexistent Order
+7578,2025-10-17,Nonexistent Order
+7465,2025-06-17,Damaged
+8290,2024-11-21,Nonexistent Order
+5971,2025-02-27,Wrong Item
+5182,2024-12-23,Wrong Item
+7669,2025-01-05,Damaged
+9819,2025-01-12,Customer Changed Mind
+8104,2025-06-19,Wrong Item
+9027,2024-11-11,Damaged
+5291,2025-02-16,Wrong Item
+9820,2025-03-27,Customer Changed Mind
+7592,2024-11-09,Damaged
+8273,2025-08-26,Customer Changed Mind
+8005,2025-09-12,Damaged
+6706,2025-05-31,Customer Changed Mind
+9967,2025-08-18,Customer Changed Mind
+8752,2025-03-24,Nonexistent Order
+5585,2025-03-24,Damaged
+5828,2025-04-14,Wrong Item
+6370,2025-04-06,Wrong Item
+6846,2025-05-27,Customer Changed Mind
+6552,2025-04-28,Damaged
+9208,2025-02-24,Damaged
+7394,2025-07-12,Customer Changed Mind
+6509,2025-08-22,Damaged
+9283,2025-04-28,Customer Changed Mind
+5702,2025-04-14,Damaged
+9712,2025-03-12,Nonexistent Order
+5140,2025-10-22,Wrong Item
+8611,2025-05-15,Customer Changed Mind
+9977,2025-10-30,Nonexistent Order
+5245,2025-01-25,Customer Changed Mind
+9797,2025-06-24,Wrong Item
+6205,2025-03-31,Nonexistent Order
+8679,2025-11-06,Customer Changed Mind
+5581,2024-12-20,Damaged
+5937,2025-06-26,Customer Changed Mind
+5674,2025-05-12,Nonexistent Order
+6638,2025-01-24,Customer Changed Mind
+6970,2025-01-09,Customer Changed Mind
+8132,2025-05-31,Nonexistent Order
+8869,2024-11-15,Damaged
+9701,2025-10-09,Customer Changed Mind
+5624,2025-03-11,Customer Changed Mind
+7723,2025-09-13,Nonexistent Order
+5568,2025-10-06,Nonexistent Order
+5323,2025-08-08,Wrong Item
+9659,2025-04-07,Nonexistent Order
+7686,2025-08-01,Damaged
+7119,2025-08-29,Wrong Item
+9959,2025-05-13,Damaged
+5517,2024-12-09,Wrong Item
+7365,2025-06-23,Customer Changed Mind
+8336,2025-06-12,Wrong Item
+9466,2025-03-22,Damaged
+7146,2025-08-23,Customer Changed Mind
+8325,2025-02-15,Damaged
+7213,2025-05-02,Damaged
+9488,2025-11-02,Customer Changed Mind
+9729,2025-01-11,Damaged
+9365,2025-06-19,Damaged
+7598,2024-12-23,Nonexistent Order
+7159,2025-10-10,Customer Changed Mind
+8505,2025-09-25,Wrong Item
+8702,2025-02-25,Damaged
+9704,2025-05-08,Damaged
+8420,2025-07-22,Wrong Item
+5472,2025-09-29,Nonexistent Order
+5881,2025-05-08,Customer Changed Mind
+8807,2025-05-31,Nonexistent Order
+9302,2025-08-03,Wrong Item
+7783,2025-04-19,Damaged
+7826,2025-04-20,Nonexistent Order
+5775,2025-06-17,Damaged
+8743,2025-07-03,Damaged
+6023,2024-12-02,Damaged
+8831,2025-01-29,Damaged
+7169,2025-09-06,Nonexistent Order
+5332,2025-03-04,Customer Changed Mind
+6746,2025-08-01,Customer Changed Mind
+8989,2025-02-20,Wrong Item
+9737,2025-02-07,Wrong Item
+9469,2025-09-25,Damaged
+8782,2025-03-17,Customer Changed Mind
+7009,2025-05-03,Wrong Item
+5347,2025-06-29,Wrong Item
+9972,2025-04-17,Wrong Item
+9202,2025-09-03,Damaged
+9762,2025-01-22,Wrong Item
+8476,2025-10-19,Nonexistent Order
+6499,2025-04-01,Customer Changed Mind
+5669,2025-07-10,Damaged
+7515,2025-09-10,Damaged
+9010,2025-05-08,Wrong Item
+9831,2025-04-17,Customer Changed Mind
+5304,2025-03-19,Wrong Item
+6793,2024-12-16,Wrong Item
+9155,2025-01-07,Damaged
+5381,2025-08-28,Customer Changed Mind
+9493,2025-07-09,Wrong Item
+8052,2025-04-22,Customer Changed Mind
+5293,2024-12-16,Nonexistent Order
+6894,2025-05-01,Nonexistent Order
+5239,2025-11-07,Wrong Item
+9979,2025-07-20,Wrong Item
+6329,2025-08-28,Damaged
+7889,2025-05-11,Nonexistent Order
+9506,2025-11-08,Customer Changed Mind
+6270,2025-05-29,Customer Changed Mind
+8543,2025-03-21,Customer Changed Mind
+8120,2025-03-18,Wrong Item
+6997,2025-10-14,Damaged
+5163,2024-11-11,Damaged
+9437,2025-01-19,Nonexistent Order
+6358,2024-12-14,Wrong Item
+6665,2025-03-15,Wrong Item
+5489,2024-11-13,Damaged
+6911,2025-02-24,Wrong Item
+8286,2025-09-18,Damaged
+9083,2025-01-19,Wrong Item
+7853,2024-12-06,Damaged
+6724,2025-09-25,Damaged
+5041,2025-03-08,Nonexistent Order
+5777,2025-02-07,Damaged
+7247,2025-09-29,Nonexistent Order
+6118,2025-05-17,Damaged
+6175,2024-12-24,Damaged
+7622,2025-05-07,Wrong Item
+8878,2025-01-07,Nonexistent Order
+8370,2025-09-26,Nonexistent Order
+9816,2025-03-12,Damaged
+9726,2025-03-09,Damaged
+9991,2025-02-18,Damaged
+6173,2025-05-23,Damaged
+8230,2025-08-02,Damaged
+6360,2025-05-10,Customer Changed Mind
+9601,2025-01-31,Nonexistent Order
+6174,2025-02-25,Wrong Item
+7722,2024-11-12,Customer Changed Mind
+8788,2025-03-25,Damaged
+6326,2024-12-10,Damaged
+7951,2025-09-01,Customer Changed Mind
+9563,2025-09-16,Damaged
+7337,2025-05-14,Customer Changed Mind
+7422,2025-09-03,Damaged
+6964,2025-09-21,Damaged
+5956,2025-02-06,Nonexistent Order
+7586,2025-06-24,Wrong Item
+6289,2025-04-30,Wrong Item
+7738,2025-08-21,Nonexistent Order
+9262,2025-04-09,Damaged
+5458,2025-03-06,Customer Changed Mind
+6375,2025-09-08,Customer Changed Mind
+6199,2024-11-28,Wrong Item
+9803,2025-07-25,Damaged
+5739,2025-01-04,Nonexistent Order
+7529,2025-02-14,Nonexistent Order
+5491,2025-11-03,Damaged
+9699,2025-06-18,Wrong Item
+5250,2025-04-21,Wrong Item
+8655,2024-12-09,Wrong Item
+5012,2025-09-12,Damaged
+5854,2025-08-07,Nonexistent Order
+6180,2025-08-19,Customer Changed Mind
+8924,2025-07-24,Nonexistent Order
+8626,2025-02-02,Wrong Item
+8686,2025-01-05,Damaged
+6747,2025-08-24,Customer Changed Mind
+9590,2025-02-05,Wrong Item
+6930,2025-01-26,Damaged
+9586,2025-04-04,Wrong Item
+8731,2025-05-14,Damaged
+7241,2025-11-07,Customer Changed Mind
+5756,2025-05-04,Damaged
+7351,2024-12-21,Wrong Item
+5073,2025-10-16,Customer Changed Mind
+8941,2025-05-09,Damaged
+5092,2024-12-12,Damaged
+9991,2025-01-04,Customer Changed Mind
+8562,2025-08-13,Customer Changed Mind
+8608,2025-02-06,Customer Changed Mind
+6020,2025-11-03,Customer Changed Mind
+9535,2025-01-11,Damaged
+9879,2025-05-07,Damaged
+9450,2025-07-26,Wrong Item
+5913,2025-06-24,Damaged
+9817,2025-04-11,Damaged
+7449,2025-08-23,Wrong Item
+8550,2025-04-08,Nonexistent Order
+8631,2025-03-22,Damaged
+9369,2025-09-28,Wrong Item
+9189,2025-01-15,Nonexistent Order
+8979,2025-01-28,Damaged
+6043,2025-04-07,Nonexistent Order
+9816,2025-10-09,Wrong Item
+5906,2025-04-01,Wrong Item
+7483,2025-08-07,Damaged
+8166,2025-07-15,Customer Changed Mind
+9450,2025-03-27,Damaged
+7783,2025-09-27,Customer Changed Mind
+9253,2025-05-23,Nonexistent Order
+8000,2025-07-15,Damaged
+7514,2025-08-31,Damaged
+9906,2025-05-12,Customer Changed Mind
+9118,2024-12-12,Customer Changed Mind
+7283,2025-10-04,Damaged
+5827,2025-01-24,Nonexistent Order
+7040,2024-12-17,Customer Changed Mind
+6239,2025-03-22,Wrong Item
+6985,2025-02-05,Damaged
+8786,2025-08-21,Customer Changed Mind
+5433,2025-10-15,Damaged
+7636,2025-07-31,Customer Changed Mind
+6577,2025-07-02,Customer Changed Mind
+5302,2025-01-06,Customer Changed Mind
+9003,2025-08-26,Nonexistent Order
+9035,2025-05-29,Wrong Item
+9585,2024-12-05,Wrong Item
+5766,2025-03-10,Customer Changed Mind
+9712,2025-07-26,Customer Changed Mind
+5570,2025-05-22,Nonexistent Order
+6291,2024-12-11,Customer Changed Mind
+6220,2025-08-17,Damaged
+5824,2025-10-30,Nonexistent Order
+7509,2025-02-21,Damaged
+9735,2025-01-08,Wrong Item
+9950,2025-06-11,Customer Changed Mind
+6871,2025-06-06,Wrong Item
+5329,2025-08-16,Wrong Item
+7467,2025-02-01,Damaged
+7250,2025-11-03,Damaged
+6158,2025-11-05,Damaged
+6530,2024-11-20,Customer Changed Mind
+7777,2025-10-29,Customer Changed Mind
+5969,2025-05-27,Damaged
+7704,2024-11-29,Customer Changed Mind
+5669,2025-10-25,Customer Changed Mind
+6804,2025-09-27,Damaged
+8904,2025-08-28,Wrong Item
+8576,2025-01-02,Damaged
+8701,2024-12-20,Wrong Item
+9613,2025-09-11,Nonexistent Order
+7808,2025-05-19,Customer Changed Mind
+6654,2025-03-05,Wrong Item
+6183,2024-12-31,Nonexistent Order
+8686,2024-11-30,Damaged
+8963,2025-03-19,Damaged
+6317,2025-02-11,Wrong Item
+7464,2025-05-29,Customer Changed Mind
+8248,2025-03-26,Damaged
+6815,2025-05-14,Customer Changed Mind
+9591,2025-10-02,Nonexistent Order
+6540,2024-12-10,Customer Changed Mind
+6274,2025-09-21,Nonexistent Order
+6819,2025-03-26,Customer Changed Mind
+9206,2025-03-19,Customer Changed Mind
+6592,2025-01-01,Nonexistent Order
+6610,2025-01-13,Wrong Item
+9181,2025-07-25,Customer Changed Mind
+5989,2025-05-21,Wrong Item
+7530,2025-05-28,Customer Changed Mind
+6469,2024-12-27,Wrong Item
+5470,2025-02-14,Customer Changed Mind
+5971,2025-10-11,Nonexistent Order
+9867,2024-12-24,Damaged
+9128,2025-06-10,Wrong Item
+9733,2025-05-08,Damaged
+9582,2025-08-22,Customer Changed Mind
+6892,2025-04-01,Customer Changed Mind
+5940,2025-08-14,Damaged
+9845,2024-12-17,Damaged
+9172,2025-08-05,Nonexistent Order
+6623,2025-04-04,Wrong Item
+5751,2025-08-07,Damaged
+5743,2025-04-26,Wrong Item
+8391,2025-09-10,Damaged
+7273,2025-08-17,Damaged
+6070,2025-10-12,Damaged
+8237,2025-06-04,Damaged
+6960,2024-11-28,Damaged
+5071,2025-01-06,Wrong Item
+7887,2024-12-23,Damaged
+9743,2025-04-18,Customer Changed Mind
+7186,2025-05-11,Damaged
+7688,2024-12-06,Customer Changed Mind
+7528,2025-02-24,Nonexistent Order
+6292,2025-01-05,Nonexistent Order
+9461,2024-11-14,Wrong Item
+9678,2025-07-05,Wrong Item
+7248,2025-03-28,Customer Changed Mind
+8044,2024-12-30,Customer Changed Mind
+6564,2025-01-05,Wrong Item
+5084,2025-05-11,Customer Changed Mind
+8206,2025-06-29,Wrong Item
+8392,2025-01-06,Damaged
+7556,2025-07-28,Nonexistent Order
+7395,2025-10-07,Wrong Item
+6880,2024-12-26,Wrong Item
+9537,2025-02-11,Wrong Item
+6772,2025-03-14,Damaged
+8833,2024-11-17,Nonexistent Order
+6706,2025-03-07,Customer Changed Mind
+8468,2025-10-09,Customer Changed Mind
+6744,2025-01-02,Customer Changed Mind
+9185,2025-01-22,Damaged
+7102,2025-05-30,Customer Changed Mind
+7715,2025-09-21,Wrong Item
+7429,2025-07-21,Wrong Item
+5178,2024-11-10,Damaged
+9061,2025-01-07,Customer Changed Mind
+7461,2025-02-22,Wrong Item
+7025,2025-08-14,Damaged
+5075,2025-05-23,Customer Changed Mind
+9092,2025-05-17,Customer Changed Mind
+6997,2025-09-03,Wrong Item
+8885,2024-12-20,Damaged
+8740,2025-04-20,Customer Changed Mind
+8144,2025-01-07,Wrong Item
+5790,2024-12-28,Damaged
+7330,2025-09-17,Customer Changed Mind
+5186,2025-04-10,Wrong Item
+7260,2025-01-15,Nonexistent Order
+9598,2025-07-23,Damaged
+8754,2024-12-02,Customer Changed Mind
+5235,2025-05-24,Damaged
+6860,2025-06-05,Wrong Item
+5415,2025-02-08,Damaged
+8109,2025-09-01,Nonexistent Order
+7345,2025-07-27,Customer Changed Mind
+5911,2025-05-09,Customer Changed Mind
+7834,2025-05-04,Customer Changed Mind
+9300,2025-05-18,Damaged
+7247,2025-03-08,Customer Changed Mind
+7623,2025-04-24,Customer Changed Mind
+7682,2024-11-20,Damaged
+7444,2025-09-12,Damaged
+5667,2025-09-06,Customer Changed Mind
+9882,2024-12-24,Nonexistent Order
+6323,2025-04-05,Customer Changed Mind
+7575,2025-05-23,Nonexistent Order
+9235,2025-04-11,Customer Changed Mind
+5026,2025-09-05,Damaged
+6606,2025-07-07,Customer Changed Mind
+6532,2024-12-07,Damaged
+9116,2025-08-28,Customer Changed Mind
+9034,2025-01-08,Damaged
+5541,2025-07-29,Damaged
+6821,2025-01-08,Nonexistent Order
+6198,2025-03-01,Nonexistent Order
+9854,2025-08-15,Wrong Item
+8246,2025-01-16,Wrong Item
+7156,2025-07-11,Nonexistent Order
+9130,2025-04-05,Nonexistent Order
+9978,2024-12-15,Customer Changed Mind
+7669,2025-06-03,Customer Changed Mind
+9359,2025-08-21,Damaged
+7874,2025-03-29,Nonexistent Order
+9138,2025-03-11,Nonexistent Order
+6728,2025-05-18,Nonexistent Order
+5757,2025-03-31,Damaged
+6080,2025-01-14,Damaged
+5684,2025-06-28,Damaged
+8910,2025-05-06,Damaged
+8528,2025-04-26,Wrong Item
+5203,2025-01-17,Nonexistent Order
+7061,2025-03-30,Nonexistent Order
+8297,2025-03-17,Nonexistent Order
+5779,2025-08-07,Customer Changed Mind
+9626,2024-12-07,Damaged
+8871,2024-11-11,Damaged
+6354,2025-01-16,Nonexistent Order
+8951,2025-01-27,Customer Changed Mind
+8684,2025-07-17,Nonexistent Order
+9248,2025-06-13,Damaged
+9784,2025-02-19,Damaged
+6240,2025-11-06,Customer Changed Mind
+6367,2025-06-18,Customer Changed Mind
+9180,2025-04-19,Wrong Item
+5837,2025-06-15,Wrong Item
+9078,2025-08-25,Wrong Item
+7385,2025-06-04,Customer Changed Mind
+6452,2025-06-16,Customer Changed Mind
+9551,2025-09-17,Customer Changed Mind
+9273,2025-05-26,Wrong Item
+7369,2025-10-28,Customer Changed Mind
+5214,2025-08-10,Wrong Item
+8784,2025-02-02,Nonexistent Order
+5917,2025-04-02,Wrong Item
+6408,2025-04-17,Nonexistent Order
+6070,2025-09-19,Customer Changed Mind
+6224,2025-03-31,Nonexistent Order
+7026,2025-04-15,Damaged
+6484,2025-03-17,Customer Changed Mind
+8686,2025-07-16,Nonexistent Order
+5844,2025-10-26,Wrong Item
+7087,2024-12-10,Wrong Item
+8559,2024-11-10,Nonexistent Order
+5488,2025-02-11,Customer Changed Mind
+5864,2024-12-31,Nonexistent Order
+5863,2025-09-17,Nonexistent Order
+6986,2025-05-07,Nonexistent Order
+7665,2025-06-07,Wrong Item
+6833,2025-07-02,Nonexistent Order
+7455,2025-09-23,Wrong Item
+5904,2025-08-05,Customer Changed Mind
+7843,2025-01-09,Damaged
+9041,2025-03-07,Damaged
+7395,2025-07-09,Damaged
+8537,2025-08-17,Customer Changed Mind
+8251,2025-08-22,Customer Changed Mind
+5969,2025-01-19,Nonexistent Order
+9388,2025-03-25,Nonexistent Order
+6543,2025-08-23,Customer Changed Mind
+5461,2025-06-09,Nonexistent Order
+7667,2025-08-29,Wrong Item
+7064,2025-07-02,Wrong Item
+6096,2025-03-18,Nonexistent Order
+5444,2025-01-21,Damaged
+7828,2025-06-02,Nonexistent Order
+5413,2025-05-29,Damaged
+8094,2025-01-23,Damaged
+9508,2025-02-17,Customer Changed Mind
+7798,2024-12-28,Customer Changed Mind
+6717,2025-06-15,Wrong Item
+7015,2025-01-12,Damaged
+8706,2025-04-24,Nonexistent Order
+9608,2025-10-14,Damaged
+5253,2025-01-04,Customer Changed Mind
+5667,2025-05-08,Damaged
+6427,2025-04-15,Damaged
+5498,2025-05-13,Wrong Item
+5025,2025-02-04,Wrong Item
+7582,2025-08-06,Wrong Item
+9272,2024-11-28,Customer Changed Mind
+5068,2024-12-05,Customer Changed Mind
+8197,2025-07-22,Customer Changed Mind
+5900,2025-11-07,Damaged
+6598,2025-07-13,Nonexistent Order
+5532,2024-11-10,Customer Changed Mind
+6146,2024-12-17,Wrong Item
+8503,2025-09-14,Damaged
+8265,2025-05-30,Customer Changed Mind
+8364,2025-10-15,Customer Changed Mind
+8403,2025-08-16,Nonexistent Order
+7908,2025-02-06,Nonexistent Order
+7139,2025-04-27,Wrong Item
+5097,2025-02-07,Wrong Item
+5375,2025-10-05,Wrong Item
+9941,2025-09-02,Customer Changed Mind
+7647,2024-12-08,Damaged
+7275,2025-03-20,Nonexistent Order
+7406,2025-06-10,Customer Changed Mind
+7105,2025-07-23,Customer Changed Mind
+5752,2025-10-21,Nonexistent Order
+7885,2025-10-31,Nonexistent Order
+7720,2025-07-19,Damaged
+6729,2025-04-19,Damaged
+6236,2025-06-21,Nonexistent Order
+9196,2025-01-18,Wrong Item
+5923,2025-03-29,Damaged
+6280,2025-04-09,Damaged
+9712,2024-12-27,Nonexistent Order
+7158,2025-04-16,Nonexistent Order
+8797,2024-12-29,Damaged
+5219,2025-10-24,Customer Changed Mind
+9321,2024-12-09,Customer Changed Mind
+9851,2025-04-30,Nonexistent Order
+7527,2025-06-01,Nonexistent Order
+6425,2025-08-03,Damaged
+5670,2025-03-25,Damaged
+6217,2025-06-08,Damaged
+5469,2025-08-30,Wrong Item
+6248,2024-12-13,Wrong Item
+8652,2025-03-27,Damaged
+9157,2025-03-16,Damaged
+7489,2025-03-24,Customer Changed Mind
+5190,2025-01-20,Nonexistent Order
+8858,2025-01-08,Customer Changed Mind
+8928,2025-05-03,Nonexistent Order
+7681,2025-09-16,Nonexistent Order
+6251,2025-03-17,Customer Changed Mind
+9333,2025-05-01,Customer Changed Mind
+8580,2024-11-22,Nonexistent Order
+6539,2024-12-24,Damaged
+7558,2024-12-29,Nonexistent Order
+7848,2025-10-07,Damaged
+8494,2025-10-29,Damaged
+5936,2025-10-16,Damaged
+8860,2025-04-21,Damaged
+5437,2025-01-15,Nonexistent Order
+8591,2025-06-28,Nonexistent Order
+7126,2025-02-27,Customer Changed Mind
+9118,2025-02-13,Nonexistent Order
+8436,2025-07-23,Damaged
